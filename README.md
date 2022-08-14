@@ -1,8 +1,8 @@
-# template
+# celiac-disease
 
 
 
-**template for pathology atlas repositories**
+**celiac-disease for pathology atlas repositories**
 
 
 
@@ -26,7 +26,7 @@ vips dzsave HE.svs HE
 
 
 
-```{r language template, echo=FALSE, include=TRUE}
+```{r language celiac-disease, echo=FALSE, include=TRUE}
 
 source("./R/language.R")
 
@@ -37,7 +37,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-## TemplateTR
+## Çölyak Hastalığı
 
 ```
 
@@ -46,7 +46,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "EN")}
 
-## TemplateEN
+## Celiac Disease
 
 ```
 
@@ -55,14 +55,14 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**Çölyak Hastalığı**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/celiac-disease/HE.html](https://pathologyatlas.github.io/celiac-disease/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://pathologyatlas.github.io/celiac-disease/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -71,14 +71,14 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**Celiac Disease**
 
 
-[https://pathologyatlas.github.io/template/HE.html](https://pathologyatlas.github.io/template/HE.html)
+[https://pathologyatlas.github.io/celiac-disease/HE.html](https://pathologyatlas.github.io/celiac-disease/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/template/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://pathologyatlas.github.io/celiac-disease/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
