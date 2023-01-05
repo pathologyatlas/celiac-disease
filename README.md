@@ -38,11 +38,11 @@ source("./R/language.R")
 **Çölyak Hastalığı**
 
 
-[https://pathologyatlas.github.io/celiac-disease/HE.html](https://pathologyatlas.github.io/celiac-disease/HE.html)
+[https://images.patolojiatlasi.com/celiac-disease/HE.html](https://images.patolojiatlasi.com/celiac-disease/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://pathologyatlas.github.io/celiac-disease/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/celiac-disease/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -54,11 +54,11 @@ Mikroskopik görüntüleri inceleyin:
 **Celiac Disease**
 
 
-[https://pathologyatlas.github.io/celiac-disease/HE.html](https://pathologyatlas.github.io/celiac-disease/HE.html)
+[https://images.patolojiatlasi.com/celiac-disease/HE.html](https://images.patolojiatlasi.com/celiac-disease/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://pathologyatlas.github.io/celiac-disease/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/celiac-disease/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
